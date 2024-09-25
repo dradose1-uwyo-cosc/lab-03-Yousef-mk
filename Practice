@@ -1,0 +1,14 @@
+names = ["Yousef" , "Meshref" , "Branden" , "Brain"}
+print("orignal" , names)
+
+del names [0]
+names.remove("Yousef")
+print("without me" , names)
+
+names.append( Meshref )
+
+
+ # Meshref is on my table 
+# Branden is on my table 
+# Brain is on my tabvle
+for name in names : 
